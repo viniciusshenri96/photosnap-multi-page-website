@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import 'reset.css';
+
+
+/* Font Family */
+.font-h1 {
+  font: var(--fw-bold) 2.5rem/1.2 "DM Sans" sans-serif; 
+  letter-spacing: 0.261rem;
+}
+
+.font-h2 {
+  font: var(--fw-bold) 1.5rem/1.6 "DM Sans" sans-serif; 
+}
+
+.font-h3 {
+  font: var(--fw-bold) 1.125rem/1.38 "DM Sans" sans-serif; 
+}
+
+.font-h4 {
+  font: var(--fw-bold) 1rem/1.33 "DM Sans" sans-serif; 
+  letter-spacing: 0.125rem;
+}
+
+.font-body {
+  font: var(--fw-regular) 0.938rem/1.66 "DM Sans" sans-serif; 
+  letter-spacing: 0.125rem;
+}
+
+.font-btn {
+  font: var(--fw-bold) 0.125rem/1.33 "DM Sans" sans-serif; 
+  letter-spacing: 0.125rem;
+}
