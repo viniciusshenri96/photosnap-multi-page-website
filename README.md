@@ -1,4 +1,6 @@
+
 # Photosnap Website
+
 
 ![Design preview for the Photosnap Website coding challenge](./assets/img/preview.jpg)
 
