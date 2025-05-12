@@ -1,6 +1,6 @@
 # Frontend Mentor - Photosnap Website
 
-![Design preview for the Photosnap Website coding challenge](./preview.jpg)
+![Design preview for the Photosnap Website coding challenge](./assets/img/preview.jpg)
 
 ## Welcome! 👋
 

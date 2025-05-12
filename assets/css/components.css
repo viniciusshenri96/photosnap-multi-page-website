@@ -1,5 +1,30 @@
-@import 'reset.css';
-@import 'typography.css';
+@import 'reset';
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1100px;
+  padding: 1.25rem 10.313rem;
+  margin: 0 auto;
+  align-items: center;
+}
 
+.header__list {
+  display: flex;
+  gap: 37px;
+}
+
+.header__link:link {
+  text-transform: uppercase;
+  color: var(--color-pureBlack);
+  font: var(--fw-bold) 0.75rem/1.33 "DM Sans", sans-serif; 
+  letter-spacing: 0.125rem;
+}
+
+.btn {
+  color: var(--color-pureWhite);
+  text-transform: uppercase;
+  background-color: var(--color-pureBlack);
+  padding: 12px 24px;
+}
 

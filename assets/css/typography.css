@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
-@import 'reset.css';
 
 
 /* Font Family */
@@ -27,6 +26,6 @@
 }
 
 .font-btn {
-  font: var(--fw-bold) 0.125rem/1.33 "DM Sans" sans-serif; 
+  font: var(--fw-bold) 0.75rem/1.33 "DM Sans", sans-serif; 
   letter-spacing: 0.125rem;
 }
