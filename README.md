@@ -1,8 +1,8 @@
-# Frontend Mentor - Photosnap Website
+#Photosnap Website
 
 ![Design preview for the Photosnap Website coding challenge](./assets/img/preview.jpg)
 
-## Welcome! 👋
+<!-- ## Welcome! 👋
 
 Thanks for purchasing this premium Frontend Mentor coding challenge.
 
@@ -101,4 +101,4 @@ The more specific you are with your questions the more likely it is that another
 
 We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
 
-**Have fun building!** 🚀
+**Have fun building!** 🚀 -->
